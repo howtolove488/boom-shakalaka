@@ -13,14 +13,14 @@
 }
 
 
-/*.mat-sidenav-backdrop,
+.mat-sidenav-backdrop,
 .mat-sidenav-transition .mat-sidenav-backdrop.mat-sidenav-shown {
     transition: background-color .4s cubic-bezier(.25, .8, .25, 1);
     background: rgba(0, 0, 0, 0.8);
-}*/
+}
 
 
-/*.side__navbar {
+.side__navbar {
     width: 250px;
     z-index: 99;
     background: #e8e8e8;
@@ -28,28 +28,27 @@
     position: fixed !important;
     top: 0px !important;
     z-index: 99 !important;
-}*/
+}
 
 
-/*#sidenavMenu {
+#sidenavMenu {
     left: 0px !important;
-}*/
+}
 
-
-/*#sidenavSearch {
+#sidenavSearch {
     width: 100%;
     position: fixed !important;
     height: 100%;
     padding: 10px;
     background: transparent !important;
-}*/
+}
 
 
-/*.mat-sidenav-container,
+.mat-sidenav-container,
 .mat-sidenav-content {
     transform: none !important;
 }
 
 .mat-sidenav-content {
     overflow: hidden !important;
-}*/
+}

@@ -35,7 +35,7 @@
 }
 
 
-/*.search__box__input__customize:focus {
+.search__box__input__customize:focus {
     outline: 0px !important;
 }
 
@@ -72,7 +72,7 @@
     font-size: 10pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-indent: 5px;
-}*/
+}
 
 
 /*Responsive*/
